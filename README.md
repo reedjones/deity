@@ -1,5 +1,5 @@
 # DEITY
-Summon a deity to chat with mystics, magicians, aliens, and demons. LLM trained on esoteric and occult texts 
+Summon a deity to chat with mystics, magicians, aliens, and demons. LLM trained on esoteric and occult texts.  
 
 
 ### TODO
@@ -14,4 +14,4 @@ Summon a deity to chat with mystics, magicians, aliens, and demons. LLM trained 
   
 
 ### Completed ✓
-- [x] Scrape text data from primary source
+- [x] Scrape text data from primary source ([python script to scrape data here](https://github.com/reedjones/magick_library_crawler)https://github.com/reedjones/magick_library_crawler) 
