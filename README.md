@@ -4,7 +4,8 @@ Summon a deity to chat with mystics, magicians, aliens, and demons. LLM trained 
 
 ### TODO
 - [ ] Deploy backend
-- [ ] Deploy frontend 
+- [ ] Deploy frontend
+- [ ] Script to gather all the document texts and add to vector store
 
 
 ### Started 
